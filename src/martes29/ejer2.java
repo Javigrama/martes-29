@@ -39,8 +39,8 @@ public class ejer2 {
                 
             }
             
-            System.out.println(producto);
-            System.out.println(count);
+            System.out.println("El producto de los números es "+ producto);
+            System.out.println("Se han introducido " +count+" números");
             //--------------------------------------------
        
           
